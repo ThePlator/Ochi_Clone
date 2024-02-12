@@ -41,5 +41,5 @@ _COURSE ON YOUTUBE_ [YOUTUBE](https://youtu.be/AZXYSlxj0vU?si=ayOVuo4trw6jZ7QH)
 > personaly this is very small project but we can go through to learn with new learning.
 
 #### WHO AM I
-* [INSTAGRAM](https://www.instagram.com/nmvarinder/)
-* [linkedin](https://in.linkedin.com/in/nmvarinder)
+* [InstaGram](https://www.instagram.com/nmvarinder/)
+* [Linkedin](https://in.linkedin.com/in/nmvarinder)
