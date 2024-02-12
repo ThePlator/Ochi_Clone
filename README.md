@@ -1,4 +1,4 @@
-#### Break down of websites into components
+#### Break down sites into components
 1. navbar
 2. landing page
 3. marquee
