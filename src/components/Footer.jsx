@@ -40,7 +40,7 @@ const Footer = () => {
         </svg>
       </div>
       <div className="w-1/2">
-        <h1 className="text-9xl tracking-[-.09em] uppercase font-medium">
+        <h1 className="text-8xl tracking-[-.09em] uppercase font-medium">
           presentations
         </h1>
         <img
