@@ -7,7 +7,7 @@
 6. featured cards
 7. footer
 
-official website: [OCHI_WEBSITE] (https://ochi.design/)
+official website: [OCHI_WEBSITE](https://ochi.design/)
 
 #### Project Setup:
 1. frontEnd Tool : vite
@@ -24,16 +24,16 @@ official website: [OCHI_WEBSITE] (https://ochi.design/)
 
 
 #### Documentations
-* [HTML] (https://www.w3schools.com/html/html_intro.asp)
-* [TAILWIND] (https://tailwindcss.com/) 
-* [MATERIAL-TAILWIND] (https://www.material-tailwind.com/)
-* [ANIMATION] (https://easings.net/)
-* [SCROLL_ANIMATION] (https://scroll.locomotive.ca/docs/#/)
-* [FRAMER_MOTION] (https://www.framer.com/motion/)
-* [REACT] (https://react.dev/)
-* [REACT_ICONS] (https://react-icons.github.io/react-icons/)
+* [HTML](https://www.w3schools.com/html/html_intro.asp)
+* [TAILWIND](https://tailwindcss.com/) 
+* [MATERIAL-TAILWIND](https://www.material-tailwind.com/)
+* [ANIMATION](https://easings.net/)
+* [SCROLL_ANIMATION](https://scroll.locomotive.ca/docs/#/)
+* [FRAMER_MOTION](https://www.framer.com/motion/)
+* [REACT](https://react.dev/)
+* [REACT_ICONS](https://react-icons.github.io/react-icons/)
 
-_COURSE ON YOUTUBE_ [YOUTUBE] (https://youtu.be/AZXYSlxj0vU?si=ayOVuo4trw6jZ7QH)
+_COURSE ON YOUTUBE_ [YOUTUBE](https://youtu.be/AZXYSlxj0vU?si=ayOVuo4trw6jZ7QH)
 
 
 #### about project: Clone ochi 
@@ -41,5 +41,5 @@ _COURSE ON YOUTUBE_ [YOUTUBE] (https://youtu.be/AZXYSlxj0vU?si=ayOVuo4trw6jZ7QH)
 > personaly this is very small project but we can go through to learn with new learning.
 
 #### WHO AM I
-* [INSTAGRAM] (https://www.instagram.com/nmvarinder/)
-* [linkedin] (https://in.linkedin.com/in/nmvarinder)
+* [INSTAGRAM](https://www.instagram.com/nmvarinder/)
+* [linkedin](https://in.linkedin.com/in/nmvarinder)
